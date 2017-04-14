@@ -1,0 +1,24 @@
+{
+  "name": "pewpew",
+  "version": "1.0.0",
+  "description": "a shadowrun character generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixLehmannBLN/pewpew.git"
+  },
+  "keywords": [
+    "Shadowrun",
+    "Generator",
+    "Reactjs"
+  ],
+  "author": "Felix Lehmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelixLehmannBLN/pewpew/issues"
+  },
+  "homepage": "https://github.com/FelixLehmannBLN/pewpew#readme"
+}
